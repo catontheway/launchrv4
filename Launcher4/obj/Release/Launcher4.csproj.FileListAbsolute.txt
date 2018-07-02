@@ -1,0 +1,16 @@
+D:\c# projects\Launcher4\Launcher4\bin\Release\Launcher4.exe.config
+D:\c# projects\Launcher4\Launcher4\bin\Release\Launcher4.exe
+D:\c# projects\Launcher4\Launcher4\bin\Release\Launcher4.pdb
+D:\c# projects\Launcher4\Launcher4\obj\Release\MainWindow.g.cs
+D:\c# projects\Launcher4\Launcher4\obj\Release\App.g.cs
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4_MarkupCompile.cache
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4_MarkupCompile.lref
+D:\c# projects\Launcher4\Launcher4\obj\Release\App.baml
+D:\c# projects\Launcher4\Launcher4\obj\Release\MainWindow.baml
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.g.resources
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.Properties.Resources.resources
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.csproj.GenerateResource.cache
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.csproj.CoreCompileInputs.cache
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.exe
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.pdb
+D:\c# projects\Launcher4\Launcher4\obj\Release\Launcher4.csprojAssemblyReference.cache
